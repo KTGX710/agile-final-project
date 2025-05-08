@@ -18,5 +18,5 @@ assignees: ''
 ```Gherkin
 Given 
 When 
-Then
+Then 
 ```
